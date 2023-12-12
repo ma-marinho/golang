@@ -1,5 +1,5 @@
 // seu_pacote.go
-package seu_pacote
+package html
 
 import (
 	"io/ioutil"
